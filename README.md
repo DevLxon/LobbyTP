@@ -46,15 +46,11 @@ message-connecting: Nachricht, die gesendet wird, bevor der Spieler teleportiert
 
 # ⚖ Berechtigungen
 
-Berechtigung
+Permission: lobby.use
 
-Beschreibung
+Beschreibung: Erlaubt Spielern die Nutzung des /lobby-Befehls
 
-lobby.use
-
-Erlaubt Spielern die Nutzung des /lobby-Befehls
-
-💻 Entwicklung
+# 💻 Entwicklung
 
 Hauptklasse: me.deinname.lobbycommand.Main
 
@@ -62,6 +58,6 @@ Befehl: me.deinname.lobbycommand.CommandLobby
 
 Konfigurationsmanager: me.deinname.lobbycommand.ConfigManager
 
-🔧 Unterstützung & Feedback
+# 🔧 Unterstützung & Feedback
 
 Falls du Fragen oder Verbesserungsvorschläge hast, erstelle ein Issue oder forke das Repository, um Änderungen vorzunehmen! Viel Spaß mit dem Plugin! 🚀
