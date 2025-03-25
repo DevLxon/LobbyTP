@@ -10,8 +10,11 @@ LobbyCommand ist ein einfaches BungeeCord-Plugin, das Spielern erlaubt, sich mit
 # 📂 Funktionen
 
 Teleportiert Spieler zur konfigurierten Lobby mit /lobby oder /hub.
+
 Zeigt die Nachricht "Du wirst teleportiert..." an, bevor der Spieler verbunden wird.
+
 Berechtigungsprüfung (lobby.use), um den Befehl nur bestimmten Spielern zu erlauben.
+
 Anpassbare Konfigurationsdatei (config.yml).
 
 # 🛠 Installation
