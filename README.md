@@ -20,14 +20,22 @@ Anpassbare Konfigurationsdatei (config.yml).
 # 🛠 Installation
 
 Kompiliere das Plugin und erhalte die LobbyCommand.jar-Datei.
+
 Lade die LobbyCommand.jar in den plugins/-Ordner deines BungeeCord-Servers.
+
 Starte den Server neu oder verwende /bungeecord reload.
+
 Bearbeite die config.yml, um den Namen deines Lobby-Servers anzupassen.
+
 Füge die Berechtigung lobby.use in dein Berechtigungssystem ein, falls nötig.
-📝 Konfiguration (config.yml)
+
+
+# 📝 Konfiguration (config.yml)
 
 lobby-server: "Lobby"
+
 message-no-permission: "§cDu hast keine Berechtigung, diesen Befehl zu nutzen!"
+
 message-connecting: "§aDu wirst teleportiert..."
 
 lobby-server: Der Name des Servers, zu dem sich Spieler verbinden, wenn sie /lobby verwenden.
@@ -36,7 +44,7 @@ message-no-permission: Nachricht, wenn ein Spieler keine Berechtigung für den B
 
 message-connecting: Nachricht, die gesendet wird, bevor der Spieler teleportiert wird.
 
-⚖ Berechtigungen
+# ⚖ Berechtigungen
 
 Berechtigung
 
